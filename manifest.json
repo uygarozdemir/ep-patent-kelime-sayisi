@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "EP Patent B1 Kelime Sayısı",
+  "version": "1.0",
+  "description": "EP patent numarasından B1 yayınını bulur, Tarifname + İstemler kelime sayısını hesaplar.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://data.epo.org/*"
+  ],
+  "permissions": [
+    "declarativeNetRequest"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  }
+}
