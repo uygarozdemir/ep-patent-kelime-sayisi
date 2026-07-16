@@ -15,10 +15,7 @@ Bu bir Chrome eklentisidir, Chrome Web Store'da yayınlanmamıştır. "Paketlenm
 
 3. Sol üstte beliren **"Paketlenmemiş öğe yükle"** (Load unpacked) butonuna tıkla.
 
-4. Açılan pencerede bu klasörü seç:
-   ```
-   C:\Users\uygar\OneDrive\Desktop\EP Dosyası Kelime Sayısı Projesi
-   ```
+4. Açılan pencerede bu proje klasörünü (bu dosyanın da içinde bulunduğu klasörü) seç.
    (Klasörün kendisini seçmen yeterli, içindeki dosyaları tek tek seçmene gerek yok.)
 
 5. Eklenti listede **"EP Patent B1 Kelime Sayısı"** adıyla görünür ve otomatik aktif olur.
